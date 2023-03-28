@@ -1,0 +1,27 @@
+
+# directories
+.config/pulse/
+.config/rofi/
+.config/obsidian/
+.config/gtk-3.0/
+.config/gh/
+.config/dconf/
+.config/Code/
+.config/coc/
+.config/yay/
+.config/xfce4/
+.config/Thunar/
+.config/spotify/
+.config/QtProject/
+.config/Mailspring/
+.config/libreoffice/
+.config/ktechpit/
+.config/inkscape/
+#files
+mimeapps.list
+konsolesshconfig
+konsolerc
+
+.config/GitKraken/
+
+.config/spicetify/
